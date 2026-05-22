@@ -217,8 +217,17 @@ ShopNova-Ecommerce-Analysis/
 ---
 
 ## 📸 Dashboard Screenshots
+Executive Summary 
+> <img width="918" height="600" alt="dashboard" src="https://github.com/user-attachments/assets/111dd4f7-f1d8-4afb-a42f-ceb682a252fc" />
 
-> *(Add your Power BI screenshots here after completing the dashboard)*
+Product Performance
+<img width="929" height="601" alt="dashboard1" src="https://github.com/user-attachments/assets/ec97d338-c44c-4d86-ba19-b84296b8e2c2" />
+
+Customer Analysis
+<img width="924" height="600" alt="dashboard2" src="https://github.com/user-attachments/assets/62b7f954-966d-4b3c-9ee1-6aa461f282e1" />
+
+Regional Trends
+<img width="938" height="600" alt="dashboard3" src="https://github.com/user-attachments/assets/19e83a3c-b0b2-4c2c-a281-fd4d7e8a0325" />
 
 | Page | Preview |
 |------|---------|
