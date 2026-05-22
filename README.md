@@ -222,18 +222,18 @@ ShopNova-Ecommerce-Analysis/
 
 | Page | Preview |
 |------|---------|
-| Executive Summary | `Screenshots/page1_executive_summary.png` |
-| Product Performance | `Screenshots/page2_product_performance.png` |
-| Customer Analysis | `Screenshots/page3_customer_analysis.png` |
-| Regional Trends | `Screenshots/page4_regional_trends.png` |
+| Executive Summary | `Screenshotss/dashboard.png` |
+| Product Performance | `Screenshotss/dashboard1.png` |
+| Customer Analysis | `Screenshotss/dashboard2.png` |
+| Regional Trends | `Screenshotss/dashboard3.png` |
 
 ---
 
 
 ## 🔗 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamlesh-singh-435265291?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamleshkhani)
 
 ---
 
